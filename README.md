@@ -3,6 +3,7 @@
 - Installation
 - Structure d’un projet Node.js
 - Dépendances
-- Exercice Node.js
+- [Exercise NodeJS](https://node-fundamentals.vercel.app/course/basics/script-exercises)
+
 - Async/Await
 
